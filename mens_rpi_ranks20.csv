@@ -1,0 +1,354 @@
+team,rpi,sos
+Kansas,1,1
+Dayton,2,28
+Florida State,3,36
+Baylor,4,46
+Auburn,5,25
+Villanova,6,3
+San Diego State,7,105
+Oregon,8,12
+Duke,9,23
+Louisville,10,30
+Gonzaga,11,117
+Creighton,12,22
+West Virginia,13,2
+BYU,14,42
+Maryland,15,47
+Seton Hall,16,5
+Kentucky,17,67
+Colorado,18,11
+Houston,19,72
+Arizona,20,8
+LSU,21,15
+Virginia,22,71
+Saint Mary's College,23,69
+Richmond,24,85
+Michigan State,25,41
+Northern Iowa,26,114
+Wisconsin,27,38
+East Tennessee State,28,150
+Cincinnati,29,21
+Arizona State,30,10
+USC,31,60
+Wichita State,32,75
+Xavier,33,7
+Butler,34,50
+Rhode Island,35,53
+Ohio State,36,54
+Akron,37,101
+Furman,38,144
+Florida,39,16
+Providence,40,6
+Saint Louis,41,88
+Marquette,42,9
+Arkansas,43,26
+Oklahoma,44,20
+Utah State,45,121
+Texas,46,39
+Memphis,47,81
+Illinois,48,76
+Mississippi State,49,64
+Iowa,50,82
+Penn State,51,95
+Rutgers,52,43
+Yale,53,196
+Michigan,54,51
+Tennessee,55,14
+North Carolina State,56,56
+Indiana,57,48
+Duquesne,58,107
+Stanford,59,89
+UCLA,60,52
+San Francisco,61,91
+UNCG,62,132
+Vermont,63,179
+Eastern Washington,64,171
+Texas Tech,65,62
+Boise State,66,94
+Georgia Tech,67,34
+Liberty,68,320
+Tulsa,69,135
+Bowling Green,70,115
+Alabama,71,33
+Connecticut,72,68
+Western Kentucky,73,116
+Oklahoma State,74,31
+Indiana State,75,97
+Stephen F. Austin,76,326
+Purdue,77,44
+South Carolina,78,70
+SMU,79,126
+VCU,80,66
+North Texas,81,110
+Utah,82,45
+Georgetown,83,4
+Louisiana Tech,84,202
+Little Rock,85,175
+New Mexico State,86,291
+Nevada,87,108
+Colgate,88,268
+Syracuse,89,58
+Saint Bonaventure,90,122
+Pacific,91,169
+Miami (FL),92,40
+Buffalo,93,113
+William & Mary,94,190
+TCU,95,35
+Harvard,96,224
+Belmont,97,301
+Kent State,98,112
+Colorado State,99,118
+Notre Dame,100,102
+Oregon State,101,90
+Hofstra,102,243
+Loyola-Chicago,103,143
+Siena,104,220
+Bradley,105,157
+Montana,106,174
+Saint John's,107,37
+Georgia State,108,147
+Georgia,109,27
+Texas State,110,148
+Davidson,111,100
+Saint Francis (PA),112,251
+Clemson,113,49
+North Carolina,114,19
+Wright State,115,307
+Northern Colorado,116,208
+Washington,117,24
+UCF,118,78
+UNLV,119,84
+Minnesota,120,32
+Western Carolina,121,153
+Stony Brook,122,167
+North Dakota State,123,294
+UC Irvine,124,221
+DePaul,125,59
+California,126,13
+Delaware,127,229
+Towson,128,138
+Texas A&M,129,79
+UMass,130,55
+Drake,131,139
+Pepperdine,132,103
+Temple,133,63
+Valparaiso,134,130
+Virginia Tech,135,92
+Austin Peay,136,232
+Chattanooga,137,180
+North Florida,138,219
+Winthrop,139,272
+Radford,140,215
+Penn,141,168
+Wake Forest,142,57
+South Dakota State,143,318
+Murray State,144,323
+New Mexico,145,127
+Princeton,146,131
+Northern Kentucky,147,277
+Pittsburgh,148,77
+Ole Miss,149,87
+Missouri,150,83
+South Alabama,151,187
+Georgia Southern,152,170
+La Salle,153,96
+Iowa State,154,18
+Rider,155,267
+Charleston,156,146
+Boston University,157,207
+Merrimack,158,297
+Appalachian State,159,154
+Omaha,160,151
+South Dakota,161,252
+Boston College,162,73
+George Mason,163,106
+Missouri State,164,124
+Monmouth,165,246
+UTA,166,99
+UC Santa Barbara,167,296
+FIU,168,235
+Northern Illinois,169,222
+Nicholls,170,315
+South Florida,171,80
+Southern Illinois,172,128
+Lafayette,173,287
+Toledo,174,159
+Eastern Michigan,175,125
+Ball State,176,194
+Washington State,177,119
+Ohio,178,129
+Brown,179,164
+Saint Peter's,180,271
+Sacred Heart,181,295
+Charlotte,182,238
+Portland State,183,231
+Montana State,184,192
+Texas Southern,185,236
+Kansas State,186,17
+Santa Clara,187,198
+Oral Roberts,188,201
+Wofford,189,197
+Marshall,190,152
+American,191,237
+Green Bay,192,209
+Northern Arizona,193,218
+Tulane,194,111
+Mercer,195,225
+Abilene Christian,196,304
+Prairie View A&M,197,339
+Northeastern,198,211
+California Baptist,199,317
+North Carolina Central,200,316
+Robert Morris,201,312
+Vanderbilt,202,61
+UTEP,203,178
+Lipscomb,204,249
+UAB,205,256
+Cal State Northridge,206,181
+Tennessee State,207,282
+Southern Utah,208,213
+George Washington,209,120
+Loyola-Marymount,210,86
+Coastal Carolina,211,158
+Rice,212,203
+Sacramento State,213,255
+Bucknell,214,176
+Youngstown State,215,276
+Arkansas State,216,200
+Gardner-Webb,217,257
+Saint Joseph's,218,29
+Eastern Kentucky,219,223
+Hawaii,220,259
+Old Dominion,221,172
+UMKC,222,278
+Sam Houston State,223,328
+Lamar,224,292
+North Carolina A&T,225,306
+Army,226,269
+Miami (OH),227,109
+Quinnipiac,228,284
+Dartmouth,229,216
+Fresno State,230,133
+UMBC,231,214
+Central Michigan,232,163
+Northwestern,233,74
+Western Michigan,234,155
+Drexel,235,162
+Long Island,236,262
+UIC,237,275
+Oakland,238,206
+San Diego,239,93
+Navy,240,245
+Hartford,241,289
+Illinois State,242,98
+North Dakota,243,226
+Louisiana,244,195
+FAU,245,263
+Southern,246,334
+UTSA,247,166
+Air Force,248,142
+Nebraska,249,65
+New Hampshire,250,311
+East Carolina,251,136
+Stetson,252,290
+Niagara,253,184
+Florida A&M,254,325
+Lehigh,255,140
+Iona,256,250
+Hampton,257,230
+Albany,258,281
+Bethune-Cookman,259,345
+Bryant,260,309
+Fairfield,261,239
+Weber State,262,173
+Jacksonville,263,283
+Canisius,264,241
+UC Davis,265,299
+Seattle University,266,293
+Eastern Illinois,267,346
+Grand Canyon,268,253
+Loyola-Maryland,269,327
+Norfolk State,270,348
+UTRGV,271,233
+Central Arkansas,272,183
+Manhattan,273,288
+Long Beach State,274,160
+Wyoming,275,123
+UMass-Lowell,276,254
+UC Riverside,277,340
+South Carolina Upstate,278,248
+Charleston Southern,279,302
+Cleveland State,280,210
+Fairleigh Dickinson,281,270
+Milwaukee,282,234
+Saint Francis (NY),283,303
+North Alabama,284,310
+Evansville,285,149
+Campbell,286,344
+ULM,287,145
+UNC Asheville,288,333
+Elon,289,185
+San Jose State,290,104
+Cal State Bakersfield,291,228
+Jackson State,292,335
+Grambling State,293,353
+Portland,294,134
+James Madison,295,191
+Cal State Fullerton,296,242
+Samford,297,182
+Utah Valley,298,286
+Texas A&M-Corpus Christi,299,322
+Purdue Fort Wayne,300,300
+Fordham,301,156
+Southern Miss,302,137
+UNCW,303,161
+Longwood,304,342
+Northwestern State,305,336
+Maine,306,244
+Alcorn State,307,352
+Binghamton,308,260
+Idaho State,309,177
+McNeese,310,338
+Middle Tennessee,311,141
+NJIT,312,279
+FGCU,313,247
+Detroit,314,217
+Mount Saint Mary's,315,298
+Troy,316,212
+Morgan State,317,350
+High Point,318,227
+Tennessee Tech,319,240
+South Carolina State,320,329
+Tennessee-Martin,321,264
+Jacksonville State,322,341
+VMI,323,199
+Coppin State,324,349
+Morehead State,325,337
+Wagner,326,285
+Alabama State,327,314
+Cal Poly,328,165
+Idaho,329,204
+The Citadel,330,186
+Presbyterian College,331,308
+New Orleans,332,258
+Cornell,333,188
+Columbia,334,205
+IUPUI,335,273
+SIUE,336,319
+Marist,337,321
+Denver,338,266
+Houston Baptist,339,261
+Holy Cross,340,189
+Southeastern Louisiana,341,305
+Alabama A&M,342,351
+Western Illinois,343,280
+Kennesaw State,344,193
+Incarnate Word,345,347
+Arkansas-Pine Bluff,346,313
+Central Connecticut,347,265
+Maryland Eastern Shore,348,324
+Southeast Missouri,349,331
+Chicago State,350,274
+Delaware State,351,343
+Mississippi Valley State,352,330
+Howard,353,332
